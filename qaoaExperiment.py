@@ -22,7 +22,6 @@ import sys
 ## GRIDSYNTH IMPORTS
 import mpmath
 from pygridsynth.gridsynth import gridsynth_gates
-import numpy as np
 
 """Function to jsonify any value"""
 def jsonify(v):
